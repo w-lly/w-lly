@@ -3,7 +3,7 @@
 *New York, NY*  
 [LinkedIn](https://linkedin.com/in/william-e271828)
 
----
+
 
 ## About Me
 
@@ -20,7 +20,7 @@ Hi, I'm Will, a **Computer Science** and **Applied Math** double major at **Ston
 
 ### [resume-helper](https://github.com/w-lly/resume-helper)
 - **Overview**: A tool to assist users in creating and formatting professional resumes.
-- **Technologies**: Python, Jupyter Notebooks
+- **Technologies**: Python, Next.js, FastAPI
 - **Key Features**: Resume advice/tailoring, cover letter generation, simple interface
 
 ---

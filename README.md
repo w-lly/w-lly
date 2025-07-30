@@ -1,4 +1,4 @@
-## Will [LinkedIn](https://linkedin.com/in/william-e271828)
+## Will [LinkedIn](https://linkedin.com/in/william-e271828)![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 

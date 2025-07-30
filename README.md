@@ -1,5 +1,5 @@
 ## Will
-![LinkedIn](https://linkedin.com/in/william-e271828)
+[LinkedIn](https://linkedin.com/in/william-e271828)
 
 
 

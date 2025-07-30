@@ -1,7 +1,8 @@
-## Will [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-li-e271828/)
+## Will 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-li-e271828/)
 
 
-
+!	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ## About Me
 
 Hi, I'm Will, a **Computer Science** and **Applied Math** double major at **Stony Brook University**. I have a passion for numbers and intricate puzzles, with a growing interest in **software development** and **artificial intelligence**. On the side, I stay active through sports like **basketball**, **ping pong**, and **rock climbing**.

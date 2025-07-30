@@ -1,11 +1,11 @@
-# Will's GitHub Profile
+## Will
 [LinkedIn](https://linkedin.com/in/william-e271828)
 
 
 
 ## About Me
 
-Hi, I'm Will, a **Computer Science** and **Applied Math** double major at **Stony Brook University**. I have a passion for numbers and intricate puzzles, with a growing interest in **software development** and **artificial intelligence**. On the side, I stay active through sports like **basketball**, **ping pong**, and **rock climbing**.
+Hi, I'm Will, 	`rgb(9, 105, 218)`a **Computer Science** and **Applied Math** double major at **Stony Brook University**. I have a passion for numbers and intricate puzzles, with a growing interest in **software development** and **artificial intelligence**. On the side, I stay active through sports like **basketball**, **ping pong**, and **rock climbing**.
 
 
 <!--

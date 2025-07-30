@@ -1,6 +1,4 @@
 # Will's GitHub Profile
-
-*New York, NY*  
 [LinkedIn](https://linkedin.com/in/william-e271828)
 
 
@@ -9,9 +7,11 @@
 
 Hi, I'm Will, a **Computer Science** and **Applied Math** double major at **Stony Brook University**. I have a passion for numbers and intricate puzzles, with a growing interest in **software development** and **artificial intelligence**. On the side, I stay active through sports like **basketball**, **ping pong**, and **rock climbing**.
 
+
+<!--
 ### Skills:
 - **Languages**: Python, Java, HTML, CSS
-- **Tools**: Scikit-learn, Pandas, Matplotlib, TensorFlow
+- **Tools**: Scikit-learn, Pandas, Matplotlib
 - **Certifications**: Scripting in Python, Python Data Analysis (Rice University)
 
 ---
@@ -32,7 +32,7 @@ Hi, I'm Will, a **Computer Science** and **Applied Math** double major at **Ston
 
 ## Acknowledgments
 Thanks to **Break Through Tech AI**, **Stony Brook University**, and **AMNH** for the opportunities to grow in AI/ML and research.
-
+-->
 
 
 
